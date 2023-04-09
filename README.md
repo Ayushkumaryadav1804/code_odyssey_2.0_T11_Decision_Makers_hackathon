@@ -1,4 +1,4 @@
-# code_odyssey_2.0_T11_Decision_Makers_hackathon
+# Code_Odyssey_2.0_T11_Decision_Makers_hackathon
 <h1 align="center">Hi 👋, We are Decision Makers</h1>
 <h3 align="center">A passionate team who has vision to analyze the massive Youtube Data within 24 hours</h3>
 
